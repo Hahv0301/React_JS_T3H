@@ -1,0 +1,41 @@
+body{
+     background-image: url(anh1.jpg);
+     background-repeat: no-repeat;
+}
+.text{
+    color: coral;
+    position: absolute;
+    left: 850px;
+    top: 110px;
+ 
+ }
+.form_login{
+    position: absolute;
+    left: 930px;
+    top: 200px;
+}
+.input input{
+     width: 100%;
+     padding: 10px 20px;
+     outline: none;
+     border: 1px solid #607d8b;
+     font-size: 16px;
+     letter-spacing: 1px;
+     color: #68608b;
+     background: transparent;
+     border-radius: 30px;  
+}
+.nhomatkhau{
+     margin-bottom: 10px;
+     color: #607d8b;
+     font-size: 14px;
+}
+.input p{
+    color: hotpink;
+}
+h3{
+     color: #607d8b;
+     text-align: center;
+     margin: 80px 0 10px;
+     font-weight: 500;
+}
